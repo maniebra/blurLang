@@ -1,0 +1,4 @@
+#include "iosyn.h"
+#include "mathlib.h"
+
+int main(){
