@@ -1,4 +1,7 @@
 #include "iosyn.h"
 #include "mathlib.h"
 
-int main(){
+#define YES cout<<"YES"<<endl;
+#define NO cout<<"NO"<<endl;
+
+#define elif else if

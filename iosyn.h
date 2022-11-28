@@ -4,6 +4,7 @@
 #define finish return 0
 #define loop(_variable,_start,_end,_step)   for(auto _variable = _start;_variable<_end;_variable+=_step)
 #define NOT !
+#define elif else if
 
 using namespace std;
 
